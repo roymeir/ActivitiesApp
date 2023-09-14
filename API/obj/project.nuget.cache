@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nX3cmoUaFuj6MfemXNQxqp7e/AdMPJCoz9AdaGNluoQ9PjAYHDfPx+NFrjlgMwJ+dv6J+26qT7LQJkzitYFOnw==",
+  "dgSpecHash": "tIglKNOCBc6Yr2OMWAbNrYl1lsFVSy2mF6hwbYFTIvgTFUNUB/GxsCv3vSAP7fk7dq6/nMaVDw2wByr6nAz68w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RoyMeir\\ActivitiesApp\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\RoyMeir\\ActivitiesApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RoyMeir\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\RoyMeir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
