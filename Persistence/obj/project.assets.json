@@ -1186,8 +1186,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj"
+            "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj"
             }
           }
         }
