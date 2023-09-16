@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {}
+    "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {
+    "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\RoyMeir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\RoyMeir\\ActivitiesApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

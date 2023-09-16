@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "W0n/0Mg20EM/2fAaqnwIuZQBUlIUQ+1pOqUrLPTFZzy89vFKrHEUvL6DKd/51N9vY68fPtq9i+MzhV6G9WqoHA==",
+  "dgSpecHash": "OR2TsCsF9KNTAqJ3w6h7XFCsOv5PhR+9g4FDrRRLemouMO5MHPgrCFQwWZCwdWBGSuJvhtz+nQwBf+cKGuL6zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RoyMeir\\ActivitiesApp\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\RoyMeir\\ActivitiesApp\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RoyMeir\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\RoyMeir\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\RoyMeir\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\RoyMeir\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\RoyMeir\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\RoyMeir\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\RoyMeir\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\RoyMeir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

@@ -4,6 +4,11 @@ namespace Persistence
 {
     public class Seed
     {
+        /// <summary>
+        /// This method is used to seed the database with some initial data.
+        /// </summary>
+        /// <param name="context"></param>
+        /// <returns></returns>
         public static async Task SeedData(DataContext context)
         {
             if (context.Activities.Any()) return;
